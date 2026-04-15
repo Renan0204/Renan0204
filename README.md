@@ -4,7 +4,7 @@
 
 ### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280px" alt="Programmer gif">
+<img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RpZnVrNzU0bjBhbDhjOTFlYTlzcGNlaWY4czk0em12dm9zM2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LyeKnd2LomMNKrXM9i/giphy.gif)" width="280px" alt="Programmer gif">
 
 </div>
 
@@ -27,7 +27,6 @@ Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React Native"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
@@ -66,7 +65,7 @@ Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-oliveira-73ab45233/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-oliveira-73ab45233/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan0204)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ro6680476@gmail.com)
 
