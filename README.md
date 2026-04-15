@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Renan Oliveira 👋
+# Olá, eu sou Renan Oliveira 👋
 
 ### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
 
