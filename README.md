@@ -4,7 +4,7 @@
 
 ### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RpZnVrNzU0bjBhbDhjOTFlYTlzcGNlaWY4czk0em12dm9zM2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LyeKnd2LomMNKrXM9i/giphy.gif" width="280px" alt="Coffee pixel gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d4dGY3eGJzM3F6dTgzYmQ0Zmh3cjc2OWJwNm05MzB2ZTBoOWNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nz8C1L8zbDH3muXydX/giphy.gif" width="280px" alt="Programmer pixel gif">
 
 </div>
 
