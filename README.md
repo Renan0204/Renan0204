@@ -4,11 +4,7 @@
 
 ### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsNGt3cmZkYXUxMm83YTJldnI1bGR4NXJ6M2libWEyYzd1d2VwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="280px" alt="Developer gif">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkdWVydXBzNzQ2d3kwOGUwdzV1cDNodHF5MzNwbDh6aGdqeDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FasLs2XEO5G2A/giphy.gif" width="280px" alt="Programming gif">
-
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1wMmh2dXZyYmhwNXk2M2dzOHlobTJvN3F0N2hiaGVoNXk1dDN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="280px" alt="Developer gif">
 
 ---
 
