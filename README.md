@@ -4,7 +4,9 @@
 
 ### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d4dGY3eGJzM3F6dTgzYmQ0Zmh3cjc2OWJwNm05MzB2ZTBoOWNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nz8C1L8zbDH3muXydX/giphy.gif" width="280px" alt="Programmer pixel gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsNGt3cmZkYXUxMm83YTJldnI1bGR4NXJ6M2libWEyYzd1d2VwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif" width="280px" alt="Developer gif">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkdWVydXBzNzQ2d3kwOGUwdzV1cDNodHF5MzNwbDh6aGdqeDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FasLs2XEO5G2A/giphy.gif" width="280px" alt="Programming gif">
 
 </div>
 
@@ -75,6 +77,7 @@ Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melh
 
 <div align="center">
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3oyOG11ejl2b3VtMHJpYW9uZzlxOHp2dGQxMzIxOW85ejZkdzRlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width="280px" alt="Developer gif">
 ### “Cada linha de código é um passo a mais na construção de algo maior.” ☕
 
 </div>
