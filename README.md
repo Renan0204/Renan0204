@@ -73,7 +73,7 @@ Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melh
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3oyOG11ejl2b3VtMHJpYW9uZzlxOHp2dGQxMzIxOW85ejZkdzRlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width="280px" alt="Developer gif" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3oyOG11ejl2b3VtMHJpYW9uZzlxOHp2dGQxMzIxOW85ejZkdzRlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width="300px" alt="Developer gif" align="center">
 
 ### “Cada linha de código é um passo a mais na construção de algo maior.” ☕
 
