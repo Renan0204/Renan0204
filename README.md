@@ -16,6 +16,8 @@ Tenho interesse em criar soluções bem estruturadas, funcionais e com boa exper
 
 Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melhorar um pouco mais a cada commit.
 
+Atualmente trabalhando como ##Desenvolvedor Web Designer## no ##Grupo Renda##
+
 ---
 
 ## 🚀 Tecnologias e ferramentas
