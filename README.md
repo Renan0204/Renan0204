@@ -4,14 +4,12 @@
 
 <br>
 
-Renan dos Santos Oliveira
+## Renan dos Santos Oliveira
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Java+Backend+J%C3%BAnior;Java+%7C+Spring+Boot+%7C+APIs+REST+%7C+PostgreSQL;React+%7C+TypeScript+%7C+Integra%C3%A7%C3%B5es;Backend+%7C+Banco+de+Dados+%7C+IA+%7C+Ciberseguran%C3%A7a;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias"
 alt="Apresentação animada"
 />
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/renan-oliveira-73ab45233/">
   <img src="https://img.shields.io/badge/LinkedIn-Renan%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,11 +42,11 @@ React & TypeScript       -> interfaces e integração com backend
 IA & n8n                 -> automações e otimização de processos
 Docker                   -> ambientes e aplicações containerizadas
 
-Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
-Back-end
+### Back-end
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven&theme=dark" />
 
@@ -58,15 +56,15 @@ Back-end
 <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-Banco de Dados
+### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" />
 
-Front-end
+### Front-end
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" />
 
-Ferramentas
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=dark" />
 
@@ -77,7 +75,7 @@ Ferramentas
 
 </div>
 
-Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
@@ -204,25 +202,6 @@ Inteligência Artificial aplicada a software
 Cibersegurança
 
 </details>
-
-GitHub
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Renan0204&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
-alt="Estatísticas do GitHub de Renan" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan0204&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Linguagens mais utilizadas" />
-
-<br>
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Renan0204&theme=github-compact&hide_border=true&area=true"
-alt="Gráfico de contribuições" />
-
 </div>
 
 Formação
@@ -233,30 +212,7 @@ Informática ProfissionalizanteLiberty Cursos — Umuarama/PR
 
 Um pouco além do código
 
-public class Renan {
-
-    String foco = "Backend";
-    String principalLinguagem = "Java";
-
-    String[] interesses = {
-        "Spring Boot",
-        "Banco de Dados",
-        "Inteligência Artificial",
-        "Cibersegurança"
-    };
-
-    String objetivo = "Evoluir um pouco todos os dias.";
-
-    public void desenvolver() {
-        aprender();
-        construir();
-        testar();
-        melhorar();
-        repetir();
-    }
-}
-
-Vamos conversar?
+## Vamos conversar?
 
 Tenho interesse em oportunidades para Desenvolvedor Java Backend Júnior e também em projetos envolvendo desenvolvimento Full Stack, APIs, integrações e automações.
 
