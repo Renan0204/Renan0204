@@ -1,71 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFpASM6sqT3YQ/profile-displaybackgroundimage-shrink_200_800/B4DZ4DIWpzIgAQ-/0/1778168982372?e=1787788800&v=beta&t=GMW3pdLTX_f9t4B5MgHDnekm5tCIGTSGgHcPTiSJvwA" alt="Banner" width="100%" />
+</p>
 
-# Olá, eu sou Renan Oliveira 👋
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEEIeCJAdHYkA/profile-displayphoto-scale_200_200/B4EZ473HwvHQAg-/0/1779120766927?e=1787788800&v=beta&t=DDZZaHusKwl2mZQCs75RdTgZjn8oy8vDWE_BknZBtog" alt="Renan Oliveira" width="140" style="border-radius: 50%;" />
+</p>
 
-### Desenvolvedor em formação | Sistemas para Internet | Web Development and mobile Development
+<h1 align="center">Renan Dos Santos Oliveira</h1>
+<h3 align="center">Desenvolvedor Fullstack Júnior | Java | Spring Boot | APIs REST | Integrações | Automações | React | TypeScript | Tailwind CSS</h3>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1wMmh2dXZyYmhwNXk2M2dzOHlobTJvN3F0N2hiaGVoNXk1dDN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="280px" alt="Developer gif">
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Sistemas para Internet** e estou em constante evolução na área de desenvolvimento web.
-
-Tenho interesse em criar soluções bem estruturadas, funcionais e com boa experiência para o usuário. Atualmente venho estudando tecnologias voltadas para **front-end**, **back-end** e desenvolvimento de sistemas web e mobile.
-
-Gosto de transformar ideias em projetos reais, aprender novas ferramentas e melhorar um pouco mais a cada commit.
-
-## Atualmente trabalhando como Desenvolvedor Web Designer no Grupo Renda
-
----
-
-## 🚀 Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento web com **React, React Native**
-- Back-end com **Java, Spring Boot**
-- Banco de dados com **MySQL, PostgreSQL**
-- Versionamento com **Git e GitHub**
-- Boas práticas de organização, responsividade e estrutura de código
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-oliveira-73ab45233/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan0204)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ro6680476@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3oyOG11ejl2b3VtMHJpYW9uZzlxOHp2dGQxMzIxOW85ejZkdzRlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width="300px" alt="Developer gif" align="center">
-
-### “Cada linha de código é um passo a mais na construção de algo maior.” ☕
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-oliveira-73ab45233/">LinkedIn</a> •
+  <a href="mailto:ro6680476@gmail.com">E-mail</a>
+</p>
